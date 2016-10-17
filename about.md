@@ -2,10 +2,9 @@
 layout: post-no-feature
 permalink: /about/index.html
 title: "About"
-description: "The Clover Leaf is a highly opinionated blog. Reader discretion is advised." 
+description: "Pravidhi is somewhat opinionated. Reader discretion is advised." 
 tags: [about, Jekyll, theme, responsive]
 ---
-
 Thank you for visiting my blog.
 
 My name is Arogya Koirala, and in this blog I talk about the intersection of technology, media and policy in the context of the small Himalayan country of Nepal.
