@@ -5,7 +5,8 @@ title: "About"
 description: "Pravidhi is somewhat opinionated. Reader discretion is advised." 
 tags: [about, Jekyll, theme, responsive]
 ---
-Thank you for visiting my blog.
+
+Thank you for visiting.
 
 My name is Arogya Koirala, and in this blog I talk about the intersection of technology, media and policy in the context of the small Himalayan country of Nepal.
 
