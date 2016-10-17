@@ -4,8 +4,6 @@ permalink: /about/index.html
 title: "About"
 description: "The Clover Leaf is a highly opinionated blog. Reader discretion is advised." 
 tags: [about, Jekyll, theme, responsive]
-image:
-  feature: soft-trees.jpg
 ---
 
 Thank you for visiting my blog.
