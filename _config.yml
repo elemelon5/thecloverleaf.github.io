@@ -1,20 +1,20 @@
-title:            Balzac
-tagline:          A beautiful theme.
-description:      Describe your website.
+title:            The Clover Leaf
+tagline:          A blog that rests at the intersection of technology, media, and policy in Nepal.
+description:      A blog that rests at the intersection of technology, media, and policy in Nepal.
 canonical: http://thecloverleaf.github.io
 
 # Owner/author information
 owner:
-  name:           Cole Townsend
-  avatar:         avatar.png
+  name:           Arogya Koirala
+  avatar:         https://arkoeutablog.files.wordpress.com/2016/10/tcl_med_wht2.png?w=128
   bio:            "Aesthete & Athlete"
-  email:          cole@coletownsend.com
-  twitter:        twnsndco
-  github:         coletownsend
-  instagram:      ctrunsthis
-  dribbble:       coletownsend
-  disqus:         balzac
-  location:       "Buffalo, NY"
+  email:          arogyakoirala@gmail.com
+  twitter:        elemelon
+  github:         elemelon5
+  instagram:      elemelon
+  # dribbble:       coletownsend
+  # disqus:         balzac
+  location:       "Kathmandu, NP"
   # Plug in your disqus shortname!
 
 tools:
