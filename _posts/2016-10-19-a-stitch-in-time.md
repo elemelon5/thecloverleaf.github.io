@@ -12,7 +12,7 @@ Following the launch of Data.gov - the US government portal that provides machin
 </p>	
 </blockquote>
 
- In today's world, transparency in governance and public right to government information are considered "essential to democratic participation, public trust in government, and prevention of corruption" [[^3]]. This had led to a significant rise in efforts to improve openness in government actions have proliferated [[^2]] over the last few decades, which could explain the favorable reception of open data initiatives all across the world.
+ In today's world, transparency in governance and public right to government information are considered "essential to democratic participation, public trust in government, and prevention of corruption" [[^3]]. This had led to a significant rise [[^2]] in efforts to improve openness in government actions over the last few decades, which could explain the favorable reception of open data initiatives all across the world.
 
 [^1]: https://www.theguardian.com/news/datablog/2012/sep/20/open-data-journalism
 [^2]: Relly, J. E., & Sabharwal, M. (2009). Perceptions of transparency of government policymaking: A cross-national study. Government Information Quarterly, 26, 148−157.
