@@ -12,7 +12,9 @@ Following the launch of Data.gov - the US government portal that provides machin
 </p>	
 </blockquote>
 
-Such a favorable reception of open data initiatives can be explained by the fact that efforts to improve openness and transparency in government actions have proliferated [[^2]] over the last few decades . Transparency in governance and public right to government information are considered "essential to democratic participation, public trust in government, and prevention of corruption" [[^3]]. 
+Such a favorable reception of open data initiatives can be explained by the fact that efforts to improve openness in government actions have proliferated [[^2]] over the last few decades. In today's world, transparency in governance and public right to government information are considered "essential to democratic participation, public trust in government, and prevention of corruption" [[^3]].
+
+ 
 
 
 [^1]: https://www.theguardian.com/news/datablog/2012/sep/20/open-data-journalism
