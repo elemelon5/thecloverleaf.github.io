@@ -8,7 +8,7 @@ Following the launch of data.gov - the US government portal that seeks to make g
 
 <blockquote class="fake-block">
 <p>
- "Since [the launch], the world has been deluged in open data, with cities, states and regions around the globe publishing everything from detailed crime statistics to the locations of public toilets." 
+ Since [the launch], the world has been deluged in open data, with cities, states and regions around the globe publishing everything from detailed crime statistics to the locations of public toilets. 
 </p>	
 </blockquote>
 
