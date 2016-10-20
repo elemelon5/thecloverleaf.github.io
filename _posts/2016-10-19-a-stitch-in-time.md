@@ -13,7 +13,7 @@ Following the launch of Data.gov - the US government portal that provides machin
 </blockquote>
 
 
-It is not difficult to argue that it is important for government agencies, owing to the quantity and centrality of their work, to make their work more accessible to the public. This assertion is founded on the idea that availabilty of information will place citizens in a better position to actively analyse, question and even engage themselves in the decision making processes, thereby paving the way for a more accountable and transparent form of governance.
+It is not difficult to argue that government agencies, owing to the quantity and centrality of their work, must play an active role in making their work more accessible to the public. This claim is founded on the idea that availabilty of information will place citizens in a better position to actively analyse, question and even engage themselves in the decision making processes, thereby paving the way for a more accountable and transparent form of governance.
 
 Several independent journalists, technology enthusiasts and volunteer organisations have joined hands in what is now known as the 'open data revolution' in Nepal. 
 
