@@ -6,9 +6,10 @@ description: "Identifying mechanisms that enable the use of open data could be k
 
 Following the launch of data.gov - the US government portal that seeks to make government data easily accessible to its citizens - efforts to make government data accessible to the public seem to have burgeoned all over the world. Simon Rogers, data journalist at The Guardian, says
 
-<blockquote>
-	
+<blockquote class="fake-block">
+<p>
  "Since [the launch], the world has been deluged in open data, with cities, states and regions around the globe publishing everything from detailed crime statistics to the locations of public toilets." 
+</p>	
 </blockquote>
 
 
