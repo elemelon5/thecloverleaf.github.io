@@ -12,12 +12,11 @@ Following the launch of Data.gov - the US government portal that provides machin
 </p>	
 </blockquote>
 
-
-Such favorable reception of open data initiatives can be explained by the fact that efforts to improve openness and transparency in government actions have proliferated over the last few decades [[^2]]. In today's world, transparency in governance and citizens' right to access government information are considered as essential in improving democratic participation, public trust in government, and prevention of corruption [[^3]]. 
+Such a favorable reception of open data initiatives can be explained by the fact that efforts to improve openness and transparency in government actions have proliferated over the last few decades [[^2]]. In today's world, transparency in governance and citizens' right to access government information are considered as essential in improving democratic participation, public trust in government, and prevention of corruption [[^3]]. 
 
 
 
 
 [^1]: https://www.theguardian.com/news/datablog/2012/sep/20/open-data-journalism
 [^2]: Relly, J. E., & Sabharwal, M. (2009). Perceptions of transparency of government policymaking: A cross-national study. Government Information Quarterly, 26, 148−157.
-[^3]: Burtot, J. C., Jaeger, P. T., & Grimes, J. M. (2009) Using ICTs to create a culture of transparency: E-government and social media as openness and anti-corruption tools for societies. Government Information Quarterly, 27, 264–271
+[^3]: Burtot, J. C., Jaeger, P. T., & Grimes, J. M. (2010) Using ICTs to create a culture of transparency: E-government and social media as openness and anti-corruption tools for societies. Government Information Quarterly, 27, 264–271
