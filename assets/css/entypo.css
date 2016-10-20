@@ -10,7 +10,7 @@
 	font-style: normal;
 }
 
-.fake-block {
+.quote-custom {
   font-size: 1.2em;
   background: #f9f9f9;
   border-left: 10px solid #ccc;
@@ -21,7 +21,7 @@
   text-align: left;
 }
 
-.fake-block:before {
+.quote-custom:before {
   color: #ccc;
   content: open-quote;
   font-size: 5em;
@@ -30,7 +30,7 @@
   vertical-align: -0.4em;
 }
 
-.fake-block p {
+.quote-custom p {
   font-size: 5vmin;
   /*display: table;*/
   text-align: left;
