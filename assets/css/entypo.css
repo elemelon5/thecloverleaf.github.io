@@ -31,7 +31,7 @@
 }
 
 .fake-block p {
-  font-size: 1.4em;
+  font-size: 1.4vmin;
   /*display: table;*/
   text-align: left;
 }
