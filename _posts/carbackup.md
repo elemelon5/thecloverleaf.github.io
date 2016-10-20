@@ -13,7 +13,9 @@ Nepal's position in global indicators on the status of governance is a clear tes
 
 The World Bank Program for Accountabilty in Nepal (PRAN) asserts that the ongoing negotiation of a new political order is likely to enhance the ability of the civil society to actively involve itself in setting up stable, responsible and more accountable state institutions. [1] For the first time, by involving representatives from all castes, religions and ethnic groups, the country is moving towards a more inclusive and representative form of government, a move that is unconventional for a nation that has historically taken a rather exclusionary approach at governance. [2]
 
+It is not difficult to argue that government agencies, owing to the quantity and centrality of their work, must play an active role in making their work more accessible to the public. This claim is founded on the idea that availabilty of information will place citizens in a better position to actively analyse, question and even engage themselves in the decision making processes, thereby paving the way for a more accountable and transparent form of governance.
 
+Several independent journalists, technology enthusiasts and volunteer organisations have joined hands in what is now known as the 'open data revolution' in Nepal. 
 
 
 ### Good Governance

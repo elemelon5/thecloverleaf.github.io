@@ -13,11 +13,9 @@ Following the launch of Data.gov - the US government portal that provides machin
 </blockquote>
 
 
-One could arguably contend that such a favorable reception of open data initiatives across the world can be explained by the fact that global efforts by governments to improve openness and transparency in their works have proliferated over the last few decades [[^2]]. In today's world, transparency in governance and citizens' right to access government information are considered as essential in improving democratic participation, public trust in government, and prevention of corruption [[^3]]. Government agencies, owing to the quantity and centrality of their work, must play an active role in making their work more accessible to the public. 
+One could arguably contend that such a favorable reception of open data initiatives across the world can be explained by the fact that global efforts by governments to improve openness and transparency in their works have proliferated over the last few decades [[^2]]. In today's world, transparency in governance and citizens' right to access government information are considered as essential in improving democratic participation, public trust in government, and prevention of corruption [[^3]]. 
 
-As a consequence, availabilty of information will place citizens in a better position to actively analyse, question and even engage themselves in the decision making processes, thereby paving the way for a more accountable and transparent form of governance.
 
-Several independent journalists, technology enthusiasts and volunteer organisations have joined hands in what is now known as the 'open data revolution' in Nepal. 
 
 
 [^1]: https://www.theguardian.com/news/datablog/2012/sep/20/open-data-journalism
