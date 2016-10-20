@@ -13,7 +13,7 @@ Following the launch of Data.gov - the US government portal that provides machin
 </blockquote>
 
 
-Experts argue that such a favorable reception of open data across the world can be explained by the fact that global efforts to improve openness and transparency in their works have proliferated over the last few decades [[^2]]. 
+Experts argue that such a favorable reception of open data across the world can be explained by the fact that global efforts to improve openness and transparency in their works have proliferated over the last few decades [[^2]]. Internationally, citzens' right to access government information and transparency in governance are play a significant role in improving democratic participation [[^3]], the public trust in government[[^4]], and prevention of corruption[[^5]]. 
 
 It is not difficult to argue that government agencies, owing to the quantity and centrality of their work, must play an active role in making their work more accessible to the public. This claim is founded on the idea that availabilty of information will place citizens in a better position to actively analyse, question and even engage themselves in the decision making processes, thereby paving the way for a more accountable and transparent form of governance.
 
@@ -22,3 +22,4 @@ Several independent journalists, technology enthusiasts and volunteer organisati
 
 [^1]: https://www.theguardian.com/news/datablog/2012/sep/20/open-data-journalism
 [^2]: Relly, J. E., & Sabharwal, M. (2009). Perceptions of transparency of government policymaking: A cross-national study. Government Information Quarterly, 26, 148−157.
+[^3]: Cullier, D., & Piotrowski, S. J. (2009). Internet information-seeking and its relation to support for access to government records. Government Information Quarterly, 26, 441−449.
