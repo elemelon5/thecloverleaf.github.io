@@ -4,7 +4,7 @@ title: "A stitch in time: leveraging open data for governance"
 description: "Identifying mechanisms that enable the use of open data could be key to achieving government accountability and transparency." 
 ---
 
-Following the launch of Data.gov - the US government portal that provides machine readable government datasets to its citizens - efforts to make government data accessible to the public seem to have burgeoned all over the world. According to Simon Rogers [ [^1] ], data journalist at The Guardian: 
+Following the launch of Data.gov - the US government portal that provides machine readable government datasets to its citizens - efforts to make government data accessible to the public seem to have burgeoned all over the world. According to Simon Rogers [[^1]], data journalist at The Guardian: 
 
 <blockquote class="quote-custom">
 <p>
