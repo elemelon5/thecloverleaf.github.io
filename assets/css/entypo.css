@@ -11,7 +11,7 @@
 }
 
 .fake-block {
-  font-size: 1.5em;
+  font-size: 1.2em;
   background: #f9f9f9;
   border-left: 10px solid #ccc;
   margin: 1.5em 10px;
@@ -21,15 +21,15 @@
 .fake-block:before {
   color: #ccc;
   content: open-quote;
-  font-size: 1.5em;
+  font-size: 1.2em;
   line-height: 0.1em;
   margin-right: 0.25em;
   vertical-align: -0.4em;
 }
 .fake-block p {
-  font-size: 1.5em;
+  font-size: 1.2em;
   display: inline;
-  align-content: left;
+  text-align: left;
 }
 
 /* Use the following CSS code if you want to use data attributes for inserting your icons */
