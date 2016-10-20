@@ -28,7 +28,7 @@
 }
 .fake-block p {
   font-size: 1.2em;
-  display: inline;
+  display: table;
   text-align: left;
 }
 
