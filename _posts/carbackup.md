@@ -5,6 +5,8 @@ description: "Exploring the role of open data as a tool for accountability and t
 ---
 
 
+In this regard, activities of Open Nepal, which  works on "improving the availability and accessibilty of useful data" to the general public are most certainely worthy of praise. In less than a decade, the organisation has opened close to 300 datasets to the public, covering 19 different sectors of the Nepali econnomy.
+
 
 Nepal's position in global indicators on the status of governance is a clear testimony to the fact that effective governance has never been one of our strong suits. Over the last few decades, Nepal has been consistently ranked below the fiftieth percentile in all the six dimensions of the World Bank's Worldwide Governance Indicators.
 
