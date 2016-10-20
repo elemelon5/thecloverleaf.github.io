@@ -33,7 +33,7 @@
 .fake-block p {
   font-size: 1.2em;
   /*display: table;*/
-  /*text-align: left;*/
+  text-align: left;
 }
 
 /* Use the following CSS code if you want to use data attributes for inserting your icons */
