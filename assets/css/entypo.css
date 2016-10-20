@@ -27,7 +27,9 @@
   vertical-align: -0.4em;
 }
 .fake-block p {
+  font-size: 1.5em;
   display: inline;
+  align-content: left;
 }
 
 /* Use the following CSS code if you want to use data attributes for inserting your icons */
