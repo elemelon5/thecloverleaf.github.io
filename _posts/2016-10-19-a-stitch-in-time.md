@@ -4,9 +4,8 @@ title: "A stitch in time: leveraging open data for governance"
 description: "Identifying mechanisms that enable the use of open data could be key to achieving government accountability and transparency." 
 comments: true
 post_author: "Arogya Koirala"
+incomplete: true
 ---
-
-<p class="disclaimer"> The following article is under development, and is placed in this website for testing purposes only</p>
 
 In today's world, transparency and public right to government information are starting to be seen as "essential to democratic participation, public trust in government, and prevention of corruption" [[^1]]. This has not only led to a significant rise in efforts [[^2]] to improve openness in government actions throughout the world, but also given birth to a movement that is now being termed as the "open data revolution" of the 21st century. 
 
