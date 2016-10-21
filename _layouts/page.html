@@ -19,6 +19,8 @@
           <hgroup>
             <h1>{{ page.title }}</h1>
             <p class="intro">{% if page.description %}{{ page.description }}{% else %}{{ page.tagline }}{% endif %}</p>
+              <img src="http://www.gravatar.com/avatar/{{ page.post_gravatar }}?s=40">
+              <span class="author">{{ page.post_author }}</span>
 
           </hgroup>
         </header>
