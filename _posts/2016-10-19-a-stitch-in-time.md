@@ -6,7 +6,7 @@ description: "Identifying mechanisms that enable the use of open data could be k
 
 In today's world, transparency and public right to government information are starting to be seen as "essential to democratic participation, public trust in government, and prevention of corruption" [[^1]]. This has not only led to a significant rise in efforts [[^2]] to improve openness in government actions throughout the world, but also given birth to a movement that is now being termed as the "open data revolution" of the 21st century. 
 
-Following the launch of Data.gov - the US government portal that provides machine readable government datasets to its citizens - countless similar initiatives have mushroomed all accross the world. Simon Rogers [[^3]], data journalist at The Guardian believes that the launch was successful in setting a strong and easily implementable example. He says: 
+Following the launch of Data.gov - the US government portal that provides machine readable government datasets to its citizens - countless similar initiatives have mushroomed the world over. Simon Rogers [[^3]], data journalist at The Guardian believes that the launch was successful in setting a strong precedent. He says: 
 
 <blockquote class="quote-custom">
 <p>
