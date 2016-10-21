@@ -10,6 +10,11 @@
 	font-style: normal;
 }
 
+.disclaimer {
+	color: red;
+	font-style: italic;
+}
+
 .quote-custom {
   font-size: 1.2em;
   background: #f9f9f9;
