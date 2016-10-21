@@ -17,7 +17,7 @@ Following the launch of Data.gov - the US government portal that provides machin
 </p>	
 </blockquote>
 
-While most of these efforts are currently concentrated in the developed world - which possess not only technological infrastructure and expertise, but also a strong commitment to government transparency and accountability - the developing world seems to be catching on. With over 55 countries making strong commitments strengthen governance by emphasizing the use of open data [[^4]], the landscape is slowly changing.
+While most of these efforts are currently concentrated in the developed world - which possess not only technological infrastructure and expertise, but also a strong commitment to government transparency and accountability - the developing world seems to be catching on. With over 55 countries making strong commitments to strengthen governance through emphasizing the use of open data [[^4]], the landscape is slowly changing.
 
 
 
