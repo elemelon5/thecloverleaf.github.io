@@ -4,7 +4,9 @@ title: "A stitch in time: leveraging open data for governance"
 description: "Identifying mechanisms that enable the use of open data could be key to achieving government accountability and transparency." 
 ---
 
-Following the launch of Data.gov - the US government portal that provides machine readable government datasets to its citizens - efforts to make government data accessible to the public seem to have burgeoned all over the world. According to Simon Rogers [[^1]], data journalist at The Guardian: 
+In today's world, transparency and public right to government information are starting to be seen as "essential to democratic participation, public trust in government, and prevention of corruption" [[^3]]. This has not only led to a significant rise in efforts to improve openness in government actions throughout the world, but also given birth to a movemenet we now know as the "open data revolution". 
+
+Following the launch of Data.gov - the US government portal that provides machine readable government datasets to its citizens - countless initiatives have mushroomed all across the world. Simon Rogers [[^3]], data journalist at The Guardian believes the launch was successful in "setting a principle". He says: 
 
 <blockquote class="quote-custom">
 <p>
@@ -12,8 +14,9 @@ Following the launch of Data.gov - the US government portal that provides machin
 </p>	
 </blockquote>
 
- In today's world, transparency in governance and public right to government information are considered "essential to democratic participation, public trust in government, and prevention of corruption" [[^3]]. This had led to a significant rise [[^2]] in efforts to improve openness in government actions over the last few decades, which could explain the favorable reception of open data initiatives all across the world.
 
-[^1]: https://www.theguardian.com/news/datablog/2012/sep/20/open-data-journalism
-[^2]: Relly, J. E., & Sabharwal, M. (2009). Perceptions of transparency of government policymaking: A cross-national study. Government Information Quarterly, 26, 148−157.
-[^3]: Burtot, J. C., Jaeger, P. T., & Grimes, J. M. (2010) Using ICTs to create a culture of transparency: E-government and social media as openness and anti-corruption tools for societies. Government Information Quarterly, 27, 264–271
+[^1]: Relly, J. E., & Sabharwal, M. (2009). Perceptions of transparency of government policymaking: A cross-national study. Government Information Quarterly, 26, 148−157.
+
+[^2]: Burtot, J. C., Jaeger, P. T., & Grimes, J. M. (2010) Using ICTs to create a culture of transparency: E-government and social media as openness and anti-corruption tools for societies. Government Information Quarterly, 27, 264–271
+
+[^3]: https://www.theguardian.com/news/datablog/2012/sep/20/open-data-journalism
