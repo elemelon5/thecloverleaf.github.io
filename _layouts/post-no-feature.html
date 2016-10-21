@@ -19,8 +19,8 @@
         <header class="post-header">
           <hgroup>
             <h1>{{page.title}}</h1>
-            <p class="author">{{ page.post_author }}</p>
-            <p class="date">{{page.date | date: "%b %d, %Y" }}</p>
+            <!-- <span class="author">{{ page.post_author }}</span> -->
+            <p class="date">{{ page.post_author }}, {{page.date | date: "%b %d, %Y" }}</p>
             <p class="intro">{% if page.description %}{{ page.description }}{% else %}{{ page.tagline }}{% endif %}</p>
           </hgroup>
         </header>
