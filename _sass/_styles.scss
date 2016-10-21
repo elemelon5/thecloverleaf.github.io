@@ -324,7 +324,7 @@ header.site-header nav {
                 font-weight: bold;
                 color: $grey-light;
                 text-transform: uppercase;
-                margin-top: $lh * 1/20;
+                margin-top: $lhsmall * 1/20;
             }
             .author {
                 font-family: $sans;
@@ -332,8 +332,8 @@ header.site-header nav {
                 font-weight: bold;
                 color: $grey-dark;
                 text-transform: uppercase;
-                margin-top: $lh * 2/3;
-                margin-bottom: $lh * 1/20;
+                margin-top: $lhsmall * 2/3;
+                margin-bottom: $lhsmall * 1/20;
             }
         }
         
