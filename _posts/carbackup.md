@@ -17,6 +17,8 @@ It is not difficult to argue that government agencies, owing to the quantity and
 
 Several independent journalists, technology enthusiasts and volunteer organisations have joined hands in what is now known as the 'open data revolution' in Nepal. 
 
+Since [the launch], the world has been deluged in open data, with cities, states and regions around the globe publishing everything from detailed crime statistics to the locations of public toilets.
+
 
 ### Good Governance
 
