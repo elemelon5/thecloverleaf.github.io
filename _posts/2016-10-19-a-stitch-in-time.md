@@ -3,7 +3,7 @@ layout: post-no-feature
 title: "A stitch in time: leveraging open data for governance"
 description: "Identifying mechanisms that enable the use of open data could be key to achieving government accountability and transparency." 
 comments: true
-post_author: Arogya Koirala
+post_author: "Arogya Koirala"
 ---
 
 <p class="disclaimer"> The following article is under development, and is placed in this website for testing purposes only</p>
