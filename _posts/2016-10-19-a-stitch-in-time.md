@@ -17,6 +17,10 @@ Following the launch of Data.gov - the US government portal that provides machin
 </p>	
 </blockquote>
 
+While most of these efforts are currently concentrated in the developed world, which possess both technological infrastructure and expertise to do so, the developing world seems to be catching on. With over 55 countries making strong commitments strengthen governance by emphasising the use of open data, the landscape is slowly changing [[^4]].
+
+ 
+
 [^1]: Burtot, J. C., Jaeger, P. T., & Grimes, J. M. (2010) Using ICTs to create a culture of transparency: E-government and social media as openness and anti-corruption tools for societies. Government Information Quarterly, 27, 264–271
 
 [^2]: Relly, J. E., & Sabharwal, M. (2009). Perceptions of transparency of government policymaking: A cross-national study. Government Information Quarterly, 26, 148−157
