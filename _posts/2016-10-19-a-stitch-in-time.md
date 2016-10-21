@@ -17,9 +17,9 @@ Following the launch of Data.gov - the US government portal that provides machin
 </p>	
 </blockquote>
 
-While most of these efforts are concentrated in the developed world - which possess not only a strong commitment to government transparency and accountability, but also the necessary technological infrastructure and expertise - the developing world seems to be catching on. 
+While most of these efforts are concentrated in the developed world - which possess not only a strong commitment to government transparency and accountability, but also the necessary technological infrastructure and expertise - the developing world seems to be slowly catching on. A report by the European Public Sector Information Platform (ePSI) suggests that members of the civil society, as well as external partners of developing country governments are actively encouraging the use of open data to improve transparency, accountability and citizen participation. [[^4]]
 
-~~A report published by the Open Data Research Network suggests that the open data landscape is slowly changing, with more than 55 countries making strong commitments to strengthen governance through emphasizing the use of open data [[^4]].~~
+
 
 
 [^1]: Burtot, J. C., Jaeger, P. T., & Grimes, J. M. (2010) Using ICTs to create a culture of transparency: E-government and social media as openness and anti-corruption tools for societies. Government Information Quarterly, 27, 264–271
@@ -28,4 +28,4 @@ While most of these efforts are concentrated in the developed world - which poss
 
 [^3]: https://www.theguardian.com/news/datablog/2012/sep/20/open-data-journalism
 
-[^4]: http://www.opendataresearch.org/project/2013/oddc
+[^4]: https://www.europeandataportal.eu/sites/default/files/2013_open_data_in_developing_countries.pdf
