@@ -326,6 +326,14 @@ header.site-header nav {
                 text-transform: uppercase;
                 margin-top: $lh * 2/3;
             }
+            .author {
+                font-family: $sans;
+                font-size: $fs5;
+                font-weight: bold;
+                color: $grey-dark;
+                text-transform: uppercase;
+                margin-top: $lh * 1/7;
+            }
         }
         
         .intro {
