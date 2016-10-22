@@ -17,7 +17,7 @@ Consequently, the last few decades have been marked by a significant rise [[^2]]
 </p>	
 </blockquote>
 
-While most of these efforts are concentrated in the developed world, developing countries are slowly catching on. A report by the European Public Sector Information Platform (ePSI) suggests that members of the civil society, as well as external partners of developing country governments are actively encouraging the use of open data to improve transparency, accountability and citizen participation [[^4]], which can arguably be seen as a leading indicator for increased open data activity in years to come.
+While most of these efforts are concentrated in the developed world, developing countries are slowly catching on. A report by the European Public Sector Information Platform (ePSI) suggests that members of the civil society, as well as external partners of developing country governments are actively encouraging the use of open data to improve transparency, accountability and citizen participation [[^4]]. This could arguably be seen as a leading indicator for increased open data activity in coming years.
 
 
 [^1]: Burtot, J. C., Jaeger, P. T., & Grimes, J. M. (2010) Using ICTs to create a culture of transparency: E-government and social media as openness and anti-corruption tools for societies. Government Information Quarterly, 27, 264–271
