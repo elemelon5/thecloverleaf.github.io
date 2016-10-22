@@ -9,7 +9,7 @@ incomplete: "The following article is under development, and is placed in this w
 
 In recent years, transparency and public right to government information are starting to be seen as essential to democratic participation, public trust in government, and prevention of corruption [[^1]]. This is founded on the idea that availabilty of information places any country's citizens in a better position to actively analyse, question and even engage themselves in its decision making processes. 
 
-As a consequence, the world has witnessed a significant rise [[^2]] in efforts to improve openness in government actions. A movement, now being termed as the "open data revolution" of the 21st century is well underway. Initiatives such as Data.gov - an online US government portal that provides machine readable government datasets to its citizens - have mushroomed the world over. This is probably due to the fact that data.gov was able to set a strong precedent by providing a blueprint that other governments could easily adapt. Simon Rogers [[^3]], data journalist at The Guardian says: 
+As a consequence, the world has witnessed a significant rise [[^2]] in efforts to improve openness in government actions. A movement, now being termed as the "open data revolution" of the 21st century is well underway. Initiatives such as Data.gov - an online US government portal that provides machine readable government datasets to its citizens - have proliferated in the last ten years. The website was not only able to set the wheels in motion, but also provided a blueprint that other governments could easily adapt. Simon Rogers [[^3]], data journalist at The Guardian says: 
 
 <blockquote class="quote-custom">
 <p>
