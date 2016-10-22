@@ -19,6 +19,7 @@ Several independent journalists, technology enthusiasts and volunteer organisati
 
 Since [the launch], the world has been deluged in open data, with cities, states and regions around the globe publishing everything from detailed crime statistics to the locations of public toilets.
 
+While most of these efforts are concentrated in the developed world - which possess not only a strong commitment to government transparency and accountability, but also the necessary technological infrastructure and expertise - developing countries are slowly catching on.
 
 ### Good Governance
 
