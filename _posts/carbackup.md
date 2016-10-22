@@ -21,7 +21,17 @@ Since [the launch], the world has been deluged in open data, with cities, states
 
 While most of these efforts are concentrated in the developed world - which possess not only a strong commitment to government transparency and accountability, but also the necessary technological infrastructure and expertise - developing countries are slowly catching on.
 
+In recent years, transparency and public right to government information are seen as essential to democratic participation, public trust in government, and prevention of corruption [1]. This is founded on the idea that availabilty of information places any country’s citizens in a better position to actively analyse, question and even engage themselves in its decision making processes.
+
+Consequently, the last few decades have been marked by a significant rise [2] in efforts to improve openness in government actions throughout the world, giving birth to a movement that is now being termed as the “open data revolution” of the 21st century. Following the launch of Data.gov - the US government portal that provides machine readable government datasets to its citizens - countless similar initiatives have mushroomed the world over. Simon Rogers [3], data journalist at The Guardian believes that the launch was successful in setting a strong precedent. He says:
+
+    It didn't matter how good or bad [data.gov] was - the principle had been set: all government data must be public, and available in a form you can use.
+
+While most of these efforts are concentrated in the developed world, developing countries are slowly catching on. A report by the European Public Sector Information Platform (ePSI) suggests that members of the civil society, as well as external partners of developing country governments are actively encouraging the use of open data to improve transparency, accountability and citizen participation [4]. This could arguably be seen as a leading indicator for increased open data activity in coming years.
+
+
 ### Good Governance
+
 
 * So bad, Oh no!
 
