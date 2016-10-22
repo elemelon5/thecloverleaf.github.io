@@ -17,7 +17,7 @@ As a consequence, the world has witnessed a significant rise [[^2]] in efforts t
 </p>	
 </blockquote>
 
-By providing machine readable government datasets to its citizens through the use of ICTs, the website demonstrated an easy, affordable way for governments to make data accessible to its citizens. Since then, governments all over the world have followed suit, launching similar websites that host a wide variety of data - from foreign aid to agriculture. 
+By providing machine readable government datasets to its citizens through the use of ICTs, the website demonstrated an easy, affordable way for governments to make data accessible to its citizens. Since then, governments all over the world have followed suit, launching similar websites that host a wide variety of data - from gvernment spending to the location of public toilets. 
 
 While most open data efforts are currently concentrated in the developed world, developing countries are slowly catching on. A report by the European Public Sector Information Platform (ePSI) suggests that members of the civil society, as well as external partners of developing country governments are actively encouraging the use of open data to improve transparency, accountability and citizen participation [[^4]]. This could arguably be seen as a leading indicator for increased open data activity in coming years.
 
