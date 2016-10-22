@@ -9,7 +9,7 @@ incomplete: "The following article is under development, and is placed in this w
 
 In recent years, transparency and public right to government information are starting to be seen as essential to democratic participation, public trust in government, and prevention of corruption [[^1]]. This is founded on the idea that availabilty of information places any country's citizens in a better position to actively analyse, question and even engage themselves in its decision making processes. 
 
-As a consequence, the world has witnessed a significant rise [[^2]] in efforts to improve openness in government actions. Following the launch of Data.gov - a US government portal that provides machine readable government datasets to its citizens - back in 2009, numerous similar initiatives have mushroomed the world over. The launch had set precedent by providing an easy, affordable way for governments to make data accessible to the public. Simon Rogers, data journalist at The Guardian says:
+As a consequence, the world has witnessed a significant rise [[^2]] in efforts to improve openness in government actions. The launch of Data.gov - a US government portal that provides machine readable government datasets to its citizens - back in 2009, was sucessful in setting a strong precedent by providing an easy, affordable way for governments to make data accessible to the public. Governments all over the world have followed suit, launching similar websites of their own. Simon Rogers, data journalist at The Guardian says:
 
 <blockquote class="quote-custom">
 <p>
