@@ -7,11 +7,10 @@ post_author: "Arogya Koirala"
 incomplete: "The following article is under development, and is placed in this website for testing purposes only"
 ---
 
-Transparency and public right to government information, in recent years, are starting to be seen as essential to democratic participation, public trust in government, and prevention of corruption [[^1]]. This notion is founded on the belief that availabilty of information places any country's citizens in a better position to actively analyse, question and even engage themselves in its decision making processes. 
+An assessment of global indicators on governance and accountability suggest that Nepal's position has historically been rather weak. We have consistently underperformed in the World Bank's Worldwide Governance Indicators (2009), ranking below the fiftieth percentile in all six dimensions of transparency and governance. The Global Integrity Report (2009) paints a similar picture[[^2]], where underperformance in categories such as executive, legislative and judicial accountability has resulted in Nepal gaining an overall status of a "Weak" (67/100) nation. This is unsurprising, given Nepal's political instability over the last few decades, as well as its history of taking a rather exclusionary approach at governance.
 
-An assessment of global indicators on governance and accountability suggest that Nepal's position, given its history of taking a rather exclusionary approach to governance, has been very weak. We have consistently underperformed in the World Bank's Worldwide Governance Indicators (2009), ranking below the fiftieth percentile in all six dimensions of transparency and governance. The Global Integrity Report (2009) paints a similar picture[[^2]], where underperformance in categories such as executive, legislative and judicial accountability has resulted in Nepal gaining an overall status of a "Weak" (67/100) nation.
 
-  
+
 
 
 
