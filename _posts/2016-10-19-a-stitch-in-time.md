@@ -11,13 +11,8 @@ An assessment of global indicators on governance and accountability suggest that
 
 Tides may be turning though, as easier access to inexpensive technology, and increased efforts by independent organizations and volunteers to improve government transparency has paved the way for what is now known as "open data movement" in Nepal. In this context, efforts of Open Nepal, a collaborative initiative that aims to make government information more accessible to the general public have been monumental. By supporting individuals and governemnt organizations to open up data for the public, and making available 800+ datasets through Nepal's first online open data portal, the organization has been playing an intrumental role in fostering the information ecosystem in Nepal.
 
-It has therefore become important, now more than ever, to encourage and support the use of such publicly available information. After all, open data movements are only successful if greater number of "armchair auditors" use it to actively analyse and engage in government decision making.  
+Making data accessible is only the first step, however, as open data movements rely heavily on "armchair auditors" capable of using data to actively analyse and engage in government decision making. In other words, data is merely ammunition, which will simply waste away if people do not know how to weild their 'analysis guns'. It has therefore become necessary - now more than ever - to equip actors with the necessary knowledge to take advantage of publicly available information for analyzing and questioning governement decisions.   
 
-<blockquote class="quote-custom">
-<p>
-...by exposing and interrogating the data, we can test how accurate it is, mash it up with other datasets to produce results that tell you something new about the news.  
-</p>
-</blockquote>
 
 [^1]: Burtot, J. C., Jaeger, P. T., & Grimes, J. M. (2010) Using ICTs to create a culture of transparency: E-government and social media as openness and anti-corruption tools for societies. Government Information Quarterly, 27, 264–271
 
