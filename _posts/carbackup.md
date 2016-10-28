@@ -4,6 +4,29 @@ title: "A stitch in time"
 description: "Exploring the role of open data as a tool for accountability and transparency in the context of Nepal" 
 ---
 
+In recent years, transparency and public right to government information are starting to be seen as essential to democratic participation, public trust in government, and prevention of corruption [[^1]]. This is founded on the idea that availabilty of information places any country's citizens in a better position to actively analyse, question and even engage themselves in its decision making processes. 
+
+As a consequence, the world has witnessed a significant rise [[^2]] in efforts to improve openness in government actions. The launch of Data.gov - the US government's open data portal - back in 2009, is considered by many as an important milestone in this context. Simon Rogers, data journalist at The Guardian says:
+
+<blockquote class="quote-custom">
+<p>
+  It didn't matter how good or bad [data.gov] was - the principle had been set: all government data must be public, and available in a form you can use.  
+</p>	
+</blockquote>
+
+By providing machine readable government datasets to its citizens through the use of ICTs, the website demonstrated an easy, affordable way for governments to make data accessible to the general public. Since then, governments all over the world have followed suit, launching similar websites that host a wide variety of data - from government spending to the location of public toilets. 
+
+While most open data efforts are currently concentrated in the developed world, developing countries are slowly catching on. A report by the European Public Sector Information Platform (ePSI) suggests that members of the civil society, as well as external partners of developing country governments are actively encouraging the use of open data to improve transparency, accountability and citizen participation [[^4]]. This could arguably be seen as a leading indicator for increased open data activity in coming years.
+
+
+[^1]: Burtot, J. C., Jaeger, P. T., & Grimes, J. M. (2010) Using ICTs to create a culture of transparency: E-government and social media as openness and anti-corruption tools for societies. Government Information Quarterly, 27, 264–271
+
+[^2]: Relly, J. E., & Sabharwal, M. (2009). Perceptions of transparency of government policymaking: A cross-national study. Government Information Quarterly, 26, 148−157
+
+[^3]: https://www.theguardian.com/news/datablog/2012/sep/20/open-data-journalism
+
+[^4]: https://www.europeandataportal.eu/sites/default/files/2013_open_data_in_developing_countries.pdf
+
 
 In this regard, activities of Open Nepal, which  works on "improving the availability and accessibilty of useful data" to the general public are most certainely worthy of praise. In less than a decade, the organisation has opened close to 300 datasets to the public, covering 19 different sectors of the Nepali econnomy.
 
