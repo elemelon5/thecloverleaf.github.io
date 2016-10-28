@@ -11,7 +11,7 @@ An assessment of global indicators on governance and accountability suggest that
 
 Tides may be turning though, as easier access to inexpensive technology, and increased efforts by independent organizations and volunteers to improve government transparency has paved the way for what is now known as "open data movement" in Nepal. In this context, efforts of Open Nepal, a collaborative initiative that aims to make government information more accessible to the general public have been monumental. By supporting individuals and governemnt organizations to open up data for the public, and making available 800+ datasets through Nepal's first online open data portal, the organization has been playing an intrumental role in fostering the information ecosystem in Nepal.
 
-It has therefore become important, today more than ever, to encourage and support the use of such publicly available information. After all, the fundamental notion behind the open data movement is that by making data more accesible to the public, citizens are in a better position to actively analyse and engage in government decision making. In this regard, the role of the media becomes very important. As Simon Rogers of The Guardian suggests, 
+It has therefore become important, now more than ever, to encourage and support the use of such publicly available information. After all, open data movements are only successful if greater number of "armchair auditors" use it to actively analyse and engage in government decision making.  
 
 <blockquote class="quote-custom">
 <p>
